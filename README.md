@@ -11,7 +11,11 @@ This project is meant to imitate or even improve upon current spam email classif
 
 Output will be in the form of: 
 
-![alt text][https://github.com/jw4106/EmailSpamFilter/blob/master/nlp_graphs.png]
+![Classification Data](https://github.com/jw4106/EmailSpamFilter/blob/master/nlp_graphs.png)
+
+### Results
+
+As we can see, Naive Bayes in our scenario out-performs the Support Vector Machine due to the independency factor of the NB model. Support Vector Machine requires dependency on prior data and is sensitive to parameter optimization (in our case the dependency on previously classified spam emails). This can affect our future classifications which is shown above. 
 
 ### Techniques 
 
