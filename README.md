@@ -7,7 +7,7 @@ This project is meant to imitate or even improve upon current spam email classif
 
 ### Executions
 
-*To run our program type:* python3 spamfilter.py
+To run our program type: *python3 spamfilter.py*
 
 Output will be in the form of: 
 
