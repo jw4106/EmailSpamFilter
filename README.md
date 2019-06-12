@@ -3,7 +3,7 @@ Email Spam Classification using Naive Bayes & Support Vector Machine
 
 ### Introduction
 
-This project is meant to imitate or even improve upon current spam email classifiers based off of old Natural Language  Processing homeworks for queies and documents. The use of feature vectors along with Sklearn libraries allowed for us to compare the Naive Bayes multinomial algorithm with the Support Vector Machine algorithm to determine the main differences and subtleties between the two in spam detection. We used a compilation from Ling-spam (http://www.aueb.gr/users/ion/data/lingspam_public.tar.gz ) corpus to generate a training folder with half spam and half ham(Not spam) to train our system. Once trained, we ran a test batch to see how our program ran.
+This project is meant to imitate or even improve upon current spam email classifiers based off of old Natural Language  Processing homeworks for queies and documents. The use of feature vectors along with Sklearn libraries allowed for us to compare the Naive Bayes multinomial algorithm with the Support Vector Machine algorithm to determine the main differences and subtleties between the two in spam detection. We used a compilation from [Ling-spam](http://www.aueb.gr/users/ion/data/lingspam_public.tar.gz) corpus to generate a training folder with half spam and half ham(Not spam) to train our system. Once trained, we ran a test batch to see how our program ran.
 
 ### Executions
 
